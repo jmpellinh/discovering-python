@@ -1,2 +1,2 @@
-# test-repo
- testing github out
+# discovering python
+basic codes for python
