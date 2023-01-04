@@ -6,3 +6,5 @@ if Unit.upper () == "L": #upper to capitalize whatever letter was input
 elif Unit.upper () == "K":
     converted = Weight / 0.45
     print("Weight in Lbs: " + str(converted))
+else:
+    print("wrong input")
