@@ -1,0 +1,2 @@
+# discovering python
+basic codes 
